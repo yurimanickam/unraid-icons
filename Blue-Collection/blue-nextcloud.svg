@@ -67,7 +67,7 @@ svg[viewBox="0 0 500 500"]:has(> #ai-nextcloud-logo-s-g1):has(#ai-nextcloud-logo
     <path
         id="ai-nextcloud-logo-u-background"
         d="M499.9,249.9c0,62.4,0,125.2,0,187.6c0,28.8-21.6,54.8-50,60.4-4,.8-8.4,1.2-12.8,1.2-124.8,0-249.6,0-374.4,0-30.4,0-57.2-23.6-61.2-54-.4-2.8-.4-5.6-.4-8c0-125.2,0-250,0-375.2c0-28.8,21.6-54.8,50-60.4c4-.8,8.4-1.2,12.8-1.2c124.8,0,249.6,0,374.4,0c28.8,0,54.8,21.6,60.4,50c.8,4,1.2,8.4,1.2,12.8c0,62.4,0,124.4,0,186.8v0Z"
-        fill="#bee4fa"
+        fill="#045a73"
     />
     <g id="ai-nextcloud-logo-u-nextcloudlogo_tr" transform="translate(250.099998,250.099998) rotate(0)">
         <g id="ai-nextcloud-logo-u-nextcloudlogo_tk" transform="skewX(0) skewY(0)">
